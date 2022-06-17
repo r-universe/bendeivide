@@ -1,0 +1,14 @@
+[
+  {
+    "package": "leem",
+    "oncran": true
+  },
+  {
+    "package": "midrangeMCP",
+    "oncran": true
+  },
+  {
+    "package": "SMR",
+    "oncran": true
+  }
+]
