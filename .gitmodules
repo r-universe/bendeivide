@@ -8,6 +8,11 @@
 	url = https://github.com/bendeivide/leem
 	shallow = true
 	registered = true
+[submodule "midrangeMCP"]
+	path = midrangeMCP
+	url = https://github.com/bendeivide/midrangemcp
+	shallow = true
+	registered = true
 [submodule "SMR"]
 	path = SMR
 	url = https://github.com/bendeivide/smr
