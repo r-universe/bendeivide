@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "SMR"]
-	path = SMR
-	url = https://github.com/bendeivide/smr
-	shallow = true
-	registered = true
 [submodule "leem"]
 	path = leem
 	url = https://github.com/bendeivide/leem
@@ -16,5 +11,10 @@
 [submodule "midrangeMCP"]
 	path = midrangeMCP
 	url = https://github.com/bendeivide/midrangemcp
+	shallow = true
+	registered = true
+[submodule "SMR"]
+	path = SMR
+	url = https://github.com/bendeivide/smr
 	shallow = true
 	registered = true
