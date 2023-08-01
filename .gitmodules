@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SMR"]
+	path = SMR
+	url = https://github.com/bendeivide/smr
 [submodule "leem"]
 	path = leem
 	url = https://github.com/bendeivide/leem
 [submodule "midrangeMCP"]
 	path = midrangeMCP
 	url = https://github.com/bendeivide/midrangemcp
-[submodule "SMR"]
-	path = SMR
-	url = https://github.com/bendeivide/smr
